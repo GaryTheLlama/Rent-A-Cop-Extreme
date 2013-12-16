@@ -1,7 +1,7 @@
 Rent-A-Cop-Extreme
 ==================
 
-A reverse-stealth game made in 48 hours for a local game jam. (It won third place!)
+A reverse-stealth game made in 48 hours for a local game jam.
 
 This game was made for a 48 hour game jam although actual development time was far, far less. Probably about 10-12 hours including multiple scrapped prototypes. The theme was "stealth" which prompted me to avoid the typical trope of playing as a stealthy character. Instead you play a security guard that must watch a museum through CCTV monitors and try to identify a jewel thief based on them acting suspicious (i.e., stealthy).
 
