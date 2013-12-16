@@ -9,8 +9,8 @@ I was responsible for all the programming, game design, and character sprites. I
 
 The code is pretty terrible, but that's fine because game jams aren't about beautiful code... They're about finishing a game! I have since rewritten all of the code in an effort to turn this prototype into an actual game, but that project is currently on hold.
 
-The game ended up winning third place in the contest.
+The game won third place in the contest.
 
-(Technologies used: ActionScript 3, FlashPunk, FlashDevelop, and Paint.NET.)
+This game was built with ActionScript 3, FlashDevelop, and the FlashPunk framework. Some combination of those along with the blood of a goat born when the moon is gibbous will allow you to compile the game for yourself. Good luck!
 
 Special thanks: Devon Omara, Theresa Phillips, Tim Winsky, Kyle Pulver, and UAT.
