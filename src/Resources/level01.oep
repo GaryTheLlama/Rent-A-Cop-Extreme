@@ -1,0 +1,36 @@
+<project>
+	<name>Level 01</name>
+	<settings>
+		<defaultWidth>960</defaultWidth>
+		<defaultHeight>240</defaultHeight>
+		<workingDirectory></workingDirectory>
+	</settings>
+	<tilesets>
+		<!--<tileset name="background" image="background.png" tileWidth="16" tileHeight="16" />-->
+		<tileset name="hall" image="hall.png" tileWidth="16" tileHeight="16" />
+		<tileset name="walls" image="walls.png" tileWidth="16" tileHeight="16" />
+	</tilesets>
+	<objects>
+		<object name="playerStart" image="Player.png" width="16" height="16" limit="1">
+			<nodes drawObject="true" lineMode="1" />
+		</object>
+		<object name="dude01" image="dude01.png" width="64" height="16" />
+		<object name="go" image="go_button.png" width="48" height="32" />
+		<object name="taze" image="taze_button.png" width="48" height="32" />
+		<object name="kill" image="kill_button.png" width="48" height="32" />
+		<object name="painting" image="painting.png" width="52" height="26" />
+		<object name="painting02" image="painting02.png" width="52" height="26" />
+		<object name="painting03" image="painting03.png" width="32" height="48" />
+		<object name="sculpture" image="sculpture.png" width="16" height="56" />
+		<object name="statue" image="statue.png" width="16" height="48" />
+		<object name="diamond" image="diamond.png" width="16" height="16" />
+		<object name="display" image="display.png" width="16" height="32" />
+	</objects>
+	<layers>
+		<tiles name="background" gridSize="16" />
+		<tiles name="hall" gridSize="16" />
+		<tiles name="walls" gridSize="16" />
+		<grid name="solid" gridSize="16" exportAsObjects="true" />
+		<objects name="objects" gridSize="8" drawGridSize="8" />
+	</layers>
+</project>

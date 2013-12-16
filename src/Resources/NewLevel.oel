@@ -1,0 +1,12 @@
+<level>
+  <width>800</width>
+  <height>600</height>
+  <background set="background">
+    <rect tx="0" ty="0" x="0" y="0" w="256" h="256"/>
+    <rect tx="32" ty="0" x="256" y="0" w="256" h="256"/>
+    <rect tx="64" ty="0" x="512" y="0" w="256" h="256"/>
+    <rect tx="0" ty="32" x="0" y="256" w="256" h="256"/>
+    <rect tx="32" ty="32" x="256" y="256" w="256" h="256"/>
+    <rect tx="64" ty="32" x="512" y="256" w="256" h="256"/>
+  </background>
+</level>
