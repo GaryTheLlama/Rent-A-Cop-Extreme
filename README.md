@@ -7,6 +7,8 @@ This game was made for a 48 hour game jam although actual development time was f
 
 I was responsible for all the programming, game design, and character sprites. In the beginning I had no artist so I did about half the level artwork, all of the character sprites, and defined the initial art style before I brought on an artist (Devon Omara; she knocked it out of the park!) to finish things up.
 
+The code is pretty terrible, but that's fine because game jams aren't about beautiful code... They're about finishing a game! I have since rewritten all of the code in an effort to turn this prototype into an actual game, but that project is currently on hold.
+
 The game ended up winning third place in the contest.
 
 (Technologies used: ActionScript 3, FlashPunk, FlashDevelop, and Paint.NET.)
